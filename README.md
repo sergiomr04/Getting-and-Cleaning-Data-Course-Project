@@ -1,7 +1,3 @@
----
-output:
-  html_document: default
----
 
 
 # **Peer-graded Assignment: Getting and Cleaning Data Course Project**
