@@ -1,0 +1,2 @@
+"0","y_test <- data.table::fread(""UCI HAR Dataset/test/y_test.txt"", col.names = ""code"")"
+"0","y_train <- data.table::fread(""UCI HAR Dataset/train/y_train.txt"", col.names = ""code"")"

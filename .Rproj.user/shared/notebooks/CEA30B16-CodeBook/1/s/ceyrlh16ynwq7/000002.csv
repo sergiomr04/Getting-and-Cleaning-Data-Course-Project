@@ -1,0 +1,3 @@
+"0","X<-rbind(x_train,x_test)"
+"0","Y<-rbind(y_train,y_test)"
+"0",""

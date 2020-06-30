@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1593473164782.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "61D1EAC7",
+    "lastKnownWriteTime" : 1593483252,
+    "last_content_update" : 1593483252941,
+    "path" : "~/mooc/Data scient/Programacion en R/getting data/Getting_and_Cleaning_Data_Course_Project/Getting-and-Cleaning-Data-Course Project/CodeBook.Rmd",
+    "project_path" : "CodeBook.Rmd",
+    "properties" : {
+        "cursorPosition" : "154,115",
+        "last_setup_crc32" : "88E4E8B4bb338d19",
+        "scrollLine" : "140",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
